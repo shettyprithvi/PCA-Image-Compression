@@ -7,6 +7,7 @@ This is a mobile application to scan car number plates and retrieve owner detail
 ## Working:
 
 Any License plate recognition system usually passes through three steps of image processing:
+
 1)Extraction of a license plate region
 
 2) Segmentation of the plate characters
